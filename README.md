@@ -6,7 +6,7 @@
 - I learnt how to create a repository
 
 ## Demo 📸
-C:\Users\Black Store\Desktop\Screenshot 2024-06-01 215633.png
+https://s-blh.github.io/Odin_project/
 
 ## Technologies Used 🛠️
 
